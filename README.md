@@ -1,2 +1,2 @@
 # LeaderBoard-FCC
-this leaderboard fetch API from FCC platform
+this leaderboard fetch API from FreeCodeCamp platform
